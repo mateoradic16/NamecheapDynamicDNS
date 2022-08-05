@@ -1,0 +1,1 @@
+// https://dynamicdns.park-your-domain.com/update?host=@&domain=dev-r.ml&password=55188bba269744b18a827918f9becc97&ip=127.0.0.1

@@ -1,0 +1,15 @@
+{
+  "name": "namecheapdynamicdns",
+  "version": "1.0.0",
+  "description": "Automatically Update IP Address to Domain over NameCheap Dynamic DNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "namecheapdynamicdns"
+  },
+  "author": "Mateo Radic",
+  "license": "ISC"
+}
